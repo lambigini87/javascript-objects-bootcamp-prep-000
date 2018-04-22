@@ -1,9 +1,3 @@
-var meals = {breakfast: "oatmeal"};
-meals = {
-  breakfast: 'avocado',
-  lunch: 'avocado',
-  dinner: 'avocado'
+var playlist = {
+  artistName = songtile
 }
-
-const firstMeal = 'breakfast';
-var meals = {firstMeal: 'oatmeal' }
